@@ -1,0 +1,132 @@
+{
+  "Foco Teórico" : {
+    "DesMat" : {
+      "conhecimentos" : [ "Técnicas de caracterização em laboratório e termos técnicos da área de engenharia de materiais;", "Correlação entre composição química e microestrutura dos materiaisàs suas propriedades físicas;", "Vantagens e desvantagens de cada classe de material (metal, cerâmica, polímero);", "Resolução de casos de seleção de materiais com apoio do Software CES Edupack." ],
+      "descricao" : "Esse projeto será realizado no Terceiro Semestre",
+      "materia" : "Desconstruindo a Matéria",
+      "objetivos" : [ "Reconhecer as principais classes de materiaise as características que determinam sua aplicação em projetos de engenharia;", "Relacionar as propriedades físicas dos materiais com sua composição química e microestrutura;", "Realizarensaios tecnológicose experimentos com o intuito de caracterizar de materiais;", "Analisar tecnicamente e criticamente um problema em Seleção de Materiais." ],
+      "professores" : [ "A", "B" ],
+      "titulo" : "Projeto Final de Desconstruindo a Matéria"
+    },
+    "GDE" : {
+      "conhecimentos" : [ "Neutralidade da produção científica e tecnológica;", "Determinismo tecnológico;", "Construção social da ciência e da tecnologia;", "Metodologia científica;", "Ciência, tecnologia e sociedade;", "Ética, ciência e tecnologia;", "Relação entre avanço científico-tecnológico e desenvolvimento econômico." ],
+      "descricao" : [ "Ao final da disciplina os alunos terão base e conhecimento necessário para aprender e apresentar opinião crítica sobre qualquer discussão na área de grandes desafios da engenharia" ],
+      "materia" : "Grandes Desafios da Engenharia",
+      "objetivos" : [ null, "Entender e explicar as relações interdisciplinares entre ciência, tecnologia e sociedade;", "Comparar e prever os efeitos de diferentes escolhas tecnológicas em distintos contextos sociais e econômicos;", "Analisar e avaliar os usos sociais da tecnologia à luz de temas contemporâneos." ],
+      "professores" : [ "Fernando Ribeiro Leite Neto", "Sérgio Roberto Cardoso" ],
+      "titulo" : "Cases de Grandes Desafios da Engenharia"
+    },
+    "MatMult" : {
+      "conhecimentos" : [ "Sistemas de equações diferenciais não lineares", "Cálculo vetorial", "Cálculo multivariado" ],
+      "descricao" : "Esse projeto será realizado no Terceiro Semestre",
+      "materia" : "Matemática Multivariada",
+      "objetivos" : [ "Interpretar as diferentes representações gráficas de curvas parametrizadas, funções de várias variáveise campos vetoriais (OA1);", "Interpretar, calcular e aplicarem diferentes contextos os operadores que estendem o conceito de derivada para curvas parametrizadas, funções de várias variáveis e campos vetoriais (OA2);", "Interpretar e calcular, usando diferentes técnicas, integrais de funções de uma ou mais variáveis reais (OA3);", "Utilizar os conceitos e ferramentas vistos no curso para interpretar e criar modelos de situações da realidade, com o objetivo de estabelecer previsões e tomar decisões (OA4);", "Aprimorar sua autonomia em relação ao conhecimento matemático e comunicar esse conhecimento usando adequadamente a linguagem matemática (OA5)." ],
+      "professores" : [ "Fábio Fábio", "Fábio Fábio", "Fábio Fábio" ],
+      "titulo" : "Projeto Final de Matemática Multivariada"
+    },
+    "MatVar" : {
+      "conhecimentos" : [ "Cálculo Diferencial e Integral com funções de uma variável: introdução, taxa de variação, limite, derivadas, integrais;", "Resolução analítica de equações diferenciais ordinárias;", "Álgebra Linear e a resolução analítica de sistemas de equações diferenciais;", "Desenvolvimento da autonomia em relação ao aprendizado de conteúdos matemáticos." ],
+      "descricao" : "Correlacionar todos os conteúdos aprendidos em aula em um só projeto",
+      "materia" : "Matemática da Variação",
+      "objetivos" : [ null, "Quantificar, interpretar e expressar algébrica e graficamente as taxas de variação média e instantânea de uma grandeza em relação a outra (OA1);", "Interpretar e calcular o valor acumulado de uma variável dependente com a alteração do valor da variável independente (OA2);", "Utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade, envolvendo principalmente equações diferenciais, com o objetivo de estabelecer previsões e tomar decisões (OA3);", "Utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos (OA4);", "Aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente (OA5)." ],
+      "professores" : [ "Angélica Turaça", "Fabio Orfali", "Leonidas Sandoval" ],
+      "titulo" : "Projeto Final de Matemática da Variação"
+    },
+    "ModSim" : {
+      "conhecimentos" : [ "Modelagem matemática discreta e contínua de sistemas dinâmicos de primeira e segunda ordem;", "Simulação numérica de modelos de sistemas dinâmicos usando a linguagem Python;", "Princípios de metodologia científica;", "Desenvolvimento da habilidade de comunicação oral;", "Introdução ao planejamento de projetos." ],
+      "descricao" : "(muda)",
+      "materia" : "Modelagem e Simulação do Mundo Físico",
+      "objetivos" : [ null, "Criar modelos de diferentes tipos de sistemas, usando diferentes estratégias de abstração.", "Implementar solução numérica de modelos de sistemas dinâmicos usando a linguagem de programação Python.", "Utilizar técnicas comuns de validação de modelos a partir de dados dos sistemas reais correspondentes.", "Elaborar conclusões a partir do comportamento observado para os modelos simulados.", "Comunicar oralmente um conteúdo técnico, com auxílio de um cartaz e/ou apresentação de slides" ],
+      "professores" : [ "Fabio Hage", "Fabio Pelicano", "Paulina Achurra" ],
+      "titulo" : "Projeto Final de Modelagem e Simulação do Mundo Físico"
+    }
+  },
+  "Prog" : {
+    "CDD" : {
+      "conhecimentos" : [ "Estatística descritiva uni e bidimensional, tipos de variáveis, medidas resumo de centralidade e dispersão, diagramas para visualização dos dados;", "Análise exploratória de dados;", "Abertura de bases de dados, pré-processamento, filtragem e cruzamento de bases de dados;", "Teoria da probabilidade;", "Modelos probabilísticos para variáveis aleatórias discretas e contínuas;", "Distribuições amostrais de média, proporção e variância;", "Intervalos de confiança para parâmetros de interesse;", "Inferência estatística paramétrica;", "Inferência não paramétrica baseada em reamostragem;", "Introdução à classificação;", "Regressão linear simples e múltipla." ],
+      "descricao" : "(muda)",
+      "materia" : "Ciência dos Dados",
+      "objetivos" : [ "Elaborar análises exploratórias de dados (univariadas e multivariadas), utilizando ferramentas estatísticas e computacionais adequadas.", "Selecionar informações de bancos de dados, tratá-los e prepará-los para processamento.", "Especificar as distribuições de probabilidades adequadas para as variáveis quantitativas discretas e contínuas.", "Conduzir testes inferenciais adequados que possam dar base à tomada de decisão.", "Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas." ],
+      "professores" : [ "Fábio Ayres", "Fábio Roberto de Miranda", "Raul Ikeda / Maria Kelly Venezuela" ],
+      "titulo" : "Projeto Final de Ciência dos Dados"
+    },
+    "DesSoft" : {
+      "conhecimentos" : [ "Conceitos Básicos de Algoritmos;", "Técnicas de Projeto de Software;", "Fundamentos de Programação e Linguagens de Programação;", "Resolução Algorítmica de Problemas;", "Linguagens de Programação;", "Técnicas de Planejamento e Gerenciamento de Software;", "Documentação de projetos de Software.", "Desenvolvimento de Programas;" ],
+      "descricao" : "(muda)",
+      "materia" : "Design de Software",
+      "objetivos" : [ "Desenvolver programas de computador.", "Identificar e programar estratégias computacionais de resolução de problemas práticos.", "Atuar em uma equipe gerenciada por métodos ágeis." ],
+      "professores" : [ "Daniel Carvalho", "Fabio Ayres", "Raul Ikeda" ],
+      "titulo" : "Projeto Final de Design de Software"
+    }
+  },
+  "Foco Prático" : {
+    "Aciona" : {
+      "conhecimentos" : [ "Conceitos fundamentais de circuitos elétricos;", "Regime permanente senoidal;", "Diodos e transistores;", "Amplificadores operacionais;", "Capacitores;", "Circuitos de primeira e segunda ordem;", "Modulação por largura de pulso;", "Motor de corrente contínua com escovas." ],
+      "descricao" : "(muda)",
+      "materia" : "Acionamentos Elétricos",
+      "objetivos" : [ null, "Modelar matematicamente circuitos elétricos de primeira e segunda ordem;", "Analisar diagramas de circuitos elétricos;", "Simular circuitos elétricos;", "Projetar um circuito elétrico para o acionamento de cargas de natureza variada utilizando a estratégia de modulação por largura de pulso (PWM);", "Selecionar componentes a serem utilizados nos projetos valendo-se de datasheets e fontes de informação fornecidas pelos fabricantes." ],
+      "professores" : [ "Carlos Eduardo de Brito Novaes", "Leandro Poloni", "Rodrigo Carareto" ],
+      "titulo" : "Projeto Final de Acionamentos Elétricos"
+    },
+    "Job" : {
+      "conhecimentos" : [ "Processo do design;", "Desenho de formas funcionais (sketching);", "Desenho assistido por computador (CAD);", "Técnicas de fabricação digital (CAM);", "Prototipagem." ],
+      "descricao" : "(muda)",
+      "materia" : "Natureza do Design",
+      "objetivos" : [ "Aprender a mexer nas máquinas do Fab Lab (Milena, Shotboot, 3D, Laser)" ],
+      "professores" : [ "Daniel Guzzo da Costa / Victor Cussiol Macul", "Roberto Fialho / Gustavo Marcos / Leonidas Sandoval" ],
+      "titulo" : "Girafa do Job Rotation"
+    },
+    "Meteo" : {
+      "conhecimentos" : [ "A", "B" ],
+      "descricao" : "(muda)",
+      "materia" : "Instrumentação e Medição",
+      "objetivos" : [ "Aprender a programar em C++ (Arduino);", "Calibrar sensores;", "Mexer no Eagle." ],
+      "professores" : [ "Carlos Eduardo de Brito Novaes", "Fabio Bobrow" ],
+      "titulo" : "Estação Metereológica"
+    },
+    "ModCont" : {
+      "conhecimentos" : [ "Modelagem de sistemas dinâmicos no domínio da frequência;", "Análise da resposta transitória de sistemas re-alimentados;", "Caracterização da estabilidade de sistemas dinâmicos;", "Análise da resposta em regime permanente de sistemas re-alimentados;", "Síntese de controladores PID." ],
+      "descricao" : "Esse projeto será realizado no Quarto Semestre",
+      "materia" : "Modelagem e Controle",
+      "objetivos" : [ "Aplicar equações diferenciais na modelagem de sistemas dinâmicos de primeira e segunda ordem;", "Determinar a função de transferência de um sistema dinâmico e avaliar sua resposta temporal;", "Analisar a relação entre os pólos e zeros da função transferência e o comportamento dinâmico do sistema;", "Simular a resposta temporal de sistemas dinâmicos;", "Ajustar os parâmetros de uma malha de controle proporcional, PD e PID para que o controlador correspondente siga determinadas especificações funcionais." ],
+      "professores" : [ "prof", "prof" ],
+      "titulo" : "Projeto Final de Modelagem e Controle"
+    }
+  },
+  "Usu" : {
+    "Carro" : {
+      "conhecimentos" : [ "X", "Y" ],
+      "descricao" : "(muda)",
+      "materia" : "Natureza do Design",
+      "objetivos" : [ "1", "2" ],
+      "professores" : [ "Daniel Guzzo da Costa / Victor Cussiol Macul", "Roberto Fialho / Gustavo Marcos / Leonidas Sandoval" ],
+      "titulo" : "Melhoria para carroças de catadores"
+    },
+    "CoDes" : {
+      "conhecimentos" : [ "Empatia com usuários;", "Conhecimento do contexto e as pessoas;", "Design colaborativo;", "Usabilidade e testes de usabilidade;", "Acessibilidade;", "Prototipação e iteração;", "Métodos ágeis;", "Habilidades interpessoais;", "Processos de desenvolvimento de software;", "Padrões para interface;", "Natureza da interação com o usuário e ambientes virtuais;" ],
+      "descricao" : "(muda)",
+      "materia" : "Co-Design de Aplicativos",
+      "objetivos" : [ "Analisar usuários a partir de entrevistas e hipóteses.", "Sintetizar questões de projeto a partir de análises de usuários.", "Criar conceitos de aplicativo a partir de questões de projeto.", "Aplicar ferramentas de design gráfico e tecnologias de front-end web em prototipação digital.", "Avaliar protótipos digitais a partir de personas e cenários." ],
+      "professores" : [ "Ana Paula da Silva Lemos", "Luiz Fernando Cardoso dos Santos Durão", "Marcelo Hashimoto" ],
+      "titulo" : "Projeto Final de Co-Design de Aplicativos"
+    }
+  },
+  "Business" : {
+    "Inov" : {
+      "conhecimentos" : [ "X", "Y" ],
+      "descricao" : "(muda)",
+      "materia" : "(muda)",
+      "objetivos" : [ "1", "2" ],
+      "professores" : [ "prof", "prof" ],
+      "titulo" : "Inovação Incremental para Empresas Existentes"
+    },
+    "Start" : {
+      "conhecimentos" : [ "R", "E" ],
+      "descricao" : "(muda)",
+      "materia" : "(materia)",
+      "objetivos" : [ "1", "2" ],
+      "professores" : [ "prof", "prof" ],
+      "titulo" : "Modelo de Negócio para Startup Nova"
+    }
+  }
+}

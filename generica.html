@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta name= "viewport" content="width=device-width,initial-scale=1">
+		<title>"Projeto 1 - Co-Design"</title>
+		<link href="assets/css/reset.css" rel="stylesheet">
+		<link href="assets/css/stylepagina.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+	</head>
+	<body class= "tudo">
+		<header class= "header">
+			<div class="uber">
+				<img src="https://www.insper.edu.br/wp-content/themes/insper_responsive/images/insper-preto.png" alt="Insper:Ensino Superior em Negócios, Direito e Engenharia">
+			</div>
+			<nav class="nav">
+
+				<p class= "menu"><a href="index.html" class="menu_color">Home</a></p>
+				<p class= "menu1"><a>Areas</a></p>
+			</nav>
+		</header>
+
+		<main class= "principal">
+			<div class= "barra-lateral">
+				<div class= "divisor">
+					<h2 class= "title">Foco Teórico</h2>	
+					<ul class= "dividido">
+						<li class= "topping"><a href="generica.html?category=FT&course=DesMat">PF de Desconstruindo a Matéria</a></li>
+						<li class= "topping"><a href="generica.html?category=FT&course=GDE">Cases de Grandes Desafios de Engenharia</a></li>
+						<li class= "topping"><a href="generica.html?category=FT&course=MatMult">PF de Matemática Multivariada</a></li>
+						<li class= "topping"><a href="generica.html?category=FT&course=MatVar">PF de Matematica da Variação</a></li>
+						<li class= "topping"><a href="generica.html?category=FT&course=ModSim">PF de Modelagem e Simulação</a></li>
+					</ul>
+				</div>
+
+				<div class= "divisor">
+					<h2 class= "title">Foco Prático</h2>	
+					<ul class= "dividido">
+						<li class= "topping"><a href="generica.html?category=FP&course=Aciona">PF de Acionamentos Elétricos</a></li>
+						<li class= "topping"><a href="generica.html?category=FP&course=Meteo">Estação Metereológica</a></li>
+						<li class= "topping"><a href="generica.html?category=FP&course=Job">Girafa do Job Rotation</a></li>
+						<li class= "topping"><a href="generica.html?category=FP&course=ModCont">PF de Modelagem e Controle</a></li>
+					</ul>
+				</div>
+
+				<div class= "divisor">
+					<h2 class= "title">Programação</h2>	
+					<ul class= "dividido">
+						<li class= "topping"><a href="generica.html?category=Prog&course=CDD">PF de Ciencia dos Dados</a></li>
+						<li class= "topping"><a href="generica.html?category=Prog&course=DesSoft">PF de Design de Software</a></li>
+					</ul>
+				</div>
+			
+
+				<div class= "divisor">
+					<h2 class= "title">Usuario</h2>	
+					<ul class= "dividido">
+						<li class= "topping"><a href="generica.html?category=Usu&course=Carro">Melhoria para carroças de catadores</a></li>
+						<li class= "topping"><a href="generica.html?category=Usu&course=CoDes">PF de Co-Design de Aplicativos</a></li>
+					</ul>
+				</div>
+
+				<div class= "divisor">
+					<h2 class= "title">Business</h2>	
+					<ul class= "dividido">
+						<li class= "topping"><a href="generica.html?category=Bus&course=Inov">Inovação Incremental para Empresas Existentes</a></li>
+						<li class= "topping"><a href="generica.html?category=Bus&course=Start">Modelo de Negócio para Startup Nova</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class= "conteudo">
+				
+				<h2 class= "titulo">{{titulo}}</h2>
+
+				<h3 class="topico">Materia:</h3>
+					<p class= "paragrafo">
+						{{materia}}
+					</p>
+
+				<h3 class="topico">Professores:</h3>
+					<ul>
+						{{#each professores as |professor index|}}
+   							 <li class="lista">{{professor}}</li>
+ 	 					{{/each}}
+
+					</ul>
+
+				<h3 class="topico">Descricao do Projeto:</h3>	
+					<p class= "paragrafo"> 
+						{{descricao}}
+					</p>
+
+				<h3 class="topico">Conhecimentos Utilizados:</h3>	
+					<ul >
+						{{#each conhecimentos as |conhecimento index|}}
+   							 <li class="lista">{{conhecimento}}</li>
+ 	 					{{/each}}
+					</ul>
+
+				<h3 class="topico">Objetivos de Aprendizagem:</h3>	
+					<ol>
+						{{#each objetivos as |objetivo index|}}
+   							 <li class="ordenada">{{objetivo}}</li>
+ 	 					{{/each}}
+					</ol>								
+
+			</div>
+
+		</main>
+
+
+	</body>
+</html>
