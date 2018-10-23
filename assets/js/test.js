@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
             event.preventDefault()
             setTimeout(function() {
                 window.location.assign(a.href)
-            }, 5000)
+            }, 100)
         })
     }
 })
